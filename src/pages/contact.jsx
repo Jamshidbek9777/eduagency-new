@@ -84,11 +84,11 @@ const Contact = () => {
                   Contact Info
                 </h2>
                 <p className="text-gray-600">
-                  <strong>Address:</strong> 7 Muqumiy Street,,Yakkasaray,
+                  <strong>Address:</strong> 7 Muqumiy Street, Yakkasaray,
                   Tashkent, Uzbekistan
                 </p>
                 <p className="text-gray-600">
-                  <strong>Phone:</strong> +998 90 123 45 67
+                  <strong>Phone:</strong> +998 90 277 73 66
                 </p>
                 <p className="text-gray-600">
                   <strong>Email:</strong> info@eduagency.uz
@@ -96,7 +96,6 @@ const Contact = () => {
 
                 {/* Social Media Links */}
                 <div className="space-y-2">
-                  {/* <h3 className="text-xl font-bold">Follow Us</h3> */}
                   <div className="flex items-center space-x-4">
                     <a
                       href="#"

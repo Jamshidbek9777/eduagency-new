@@ -11,7 +11,7 @@ export const tr = {
   navbar9: "İletişim",
   navbar10: "Hizmetler",
 
-  hero1: "Hoşgeldiniz",
+  hero1: "Türkiye-Özbekistan Eğitim Entegratörü",
   hero2:
     "İhtiyaçlarınıza göre uyarlanmış olağanüstü eğitim hizmetleri sunan güvenilir ortağınız.",
   hero3: "Bugün Başlayın",

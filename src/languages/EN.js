@@ -10,7 +10,7 @@ export const en = {
   navbar9: "Contact",
   navbar10: "Services",
 
-  hero1:"Welcome to",
+  hero1:"Turkey-Uzbekistan Education Integrator",
   hero2:"Your trusted partner in delivering exceptional educational services tailored to your needs.",
   hero3: "Get Started Today",
   hero4:"ONLINE SUPPORT",
